@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1605897153 source:c:\users\ruben del monte\desktop\proyecto individual. rubén bouzón lago\proyecto individual. entrega 1\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	"VariablesFunciones.h"
+
+1605897577 c:\users\ruben del monte\desktop\proyecto individual. rubén bouzón lago\proyecto individual. entrega 1\variablesfunciones.h
+
+1605897681 source:c:\users\ruben del monte\desktop\proyecto individual. rubén bouzón lago\proyecto individual. entrega 1\funciones.cpp
+	<iostream>
+	<string.h>
+	"VariablesFunciones.h"
+
+1607374594 source:c:\users\ruben del monte\desktop\proyecto individual. rubén bouzón lago\proyecto individual. entrega 2\funciones.cpp
+	<iostream>
+	<string.h>
+	"VariablesFunciones.h"
+
+1607374533 c:\users\ruben del monte\desktop\proyecto individual. rubén bouzón lago\proyecto individual. entrega 2\variablesfunciones.h
+
+1607374400 source:c:\users\ruben del monte\desktop\proyecto individual. rubén bouzón lago\proyecto individual. entrega 2\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	"VariablesFunciones.h"
+
+1608242574 source:c:\users\ruben del monte\desktop\proyecto individual. entrega 3\funciones.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	"VariablesFunciones.h"
+
+1608241310 c:\users\ruben del monte\desktop\proyecto individual. entrega 3\variablesfunciones.h
+
+1608242159 source:c:\users\ruben del monte\desktop\proyecto individual. entrega 3\main.cpp
+	<iostream>
+	<string.h>
+	"VariablesFunciones.h"
+
+1608758696 source:c:\users\ruben del monte\desktop\proyecto individual. entrega 4\funciones.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<fstream>
+	"VariablesFunciones.h"
+
+1608756641 c:\users\ruben del monte\desktop\proyecto individual. entrega 4\variablesfunciones.h
+
+1608758787 source:c:\users\ruben del monte\desktop\proyecto individual. entrega 4\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"VariablesFunciones.h"
+
+1608763807 source:c:\users\ruben del monte\desktop\proyecto individual. entrega 4. rubén bouzón lago\funciones.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<fstream>
+	"VariablesFunciones.h"
+
+1609585766 c:\users\ruben del monte\desktop\proyecto individual. entrega 4. rubén bouzón lago\variablesfunciones.h
+
+1608763865 source:c:\users\ruben del monte\desktop\proyecto individual. entrega 4. rubén bouzón lago\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"VariablesFunciones.h"
+
+1608763865 source:c:\users\ruben del monte\desktop\carpetas\proyecto individual. entrega 4. rubén bouzón lago\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"VariablesFunciones.h"
+
+1609585766 c:\users\ruben del monte\desktop\carpetas\proyecto individual. entrega 4. rubén bouzón lago\variablesfunciones.h
+
+1610465474 source:c:\users\ruben del monte\desktop\carpetas\estudios\ingenierÍa informÁtica\1º cuatrimestre\programacion i\proyecto individual. entrega 4. rubén bouzón lago\funciones.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<fstream>
+	"VariablesFunciones.h"
+
+1609589366 c:\users\ruben del monte\desktop\carpetas\estudios\ingenierÍa informÁtica\1º cuatrimestre\programacion i\proyecto individual. entrega 4. rubén bouzón lago\variablesfunciones.h
+
+1608767465 source:c:\users\ruben del monte\desktop\carpetas\estudios\ingenierÍa informÁtica\1º cuatrimestre\programacion i\proyecto individual. entrega 4. rubén bouzón lago\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"VariablesFunciones.h"
+
